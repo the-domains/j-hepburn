@@ -1,0 +1,33 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: J Hepburn
+layout_spectrum: 0.2850669070612639
+typography_spectrum: 0.913099770899862
+color:
+  brandStrength: 0.017877932405099273
+  lightness: 0.41200267942622304
+  saturation: 0.41113721509464085
+  rhythmicContrast: 0.8379610027186573
+  brandColors:
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
+content: []
+analytics:
+  google: UA-131805281-1
+title: J Hepburn
+description: This site contains my past and present interests and activities.
+github: true
+author:
+  name: Jason Hepburn
+  email: jj.hepboin@gmail.com
+  url: 'http://jhepburn.io'
+opengraph:
+  appId: ''
